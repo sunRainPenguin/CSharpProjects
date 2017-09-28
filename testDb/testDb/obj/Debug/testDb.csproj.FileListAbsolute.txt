@@ -1,0 +1,16 @@
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\testDb.exe.config
+D:\Documents\CPPProjects\testDb\testDb\obj\Debug\testDb.csprojResolveAssemblyReference.cache
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\testDb.exe
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\testDb.pdb
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Bson.dll
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Driver.Core.dll
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Driver.dll
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Bson.pdb
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Bson.xml
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Driver.pdb
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Driver.xml
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Driver.Core.pdb
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Driver.Core.xml
+D:\Documents\CPPProjects\testDb\testDb\obj\Debug\testDb.exe
+D:\Documents\CPPProjects\testDb\testDb\obj\Debug\testDb.pdb
+D:\Documents\CPPProjects\testDb\testDb\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
