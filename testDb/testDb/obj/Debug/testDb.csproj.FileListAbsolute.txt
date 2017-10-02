@@ -14,3 +14,6 @@ D:\Documents\CPPProjects\testDb\testDb\bin\Debug\MongoDB.Driver.Core.xml
 D:\Documents\CPPProjects\testDb\testDb\obj\Debug\testDb.exe
 D:\Documents\CPPProjects\testDb\testDb\obj\Debug\testDb.pdb
 D:\Documents\CPPProjects\testDb\testDb\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\CProjects\CSProjects\CSharpProjects\testDb\testDb\bin\Debug\testDb.exe.config
+D:\Documents\CProjects\CSProjects\CSharpProjects\testDb\testDb\obj\Debug\testDb.exe
+D:\Documents\CProjects\CSProjects\CSharpProjects\testDb\testDb\obj\Debug\testDb.pdb
